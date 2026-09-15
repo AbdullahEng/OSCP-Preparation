@@ -1,0 +1,7 @@
+# scratch & sensitive — never commit these
+*.ovpn
+*.vpn
+creds.txt
+scratch/
+*.tmp
+.DS_Store
