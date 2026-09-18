@@ -58,7 +58,7 @@ OSCP-Preparation/
 │   ├── tools-reference.md        ← my tool-card revision deck
 │   └── github-workflow.md        ← how I maintain this repo
 ├── phase-0-foundations/
-│   └── week-01-lab-and-foundations.md
+│   └── week-01/                   ← weekly study folder (README, guide, flashcards, tools…)
 ├── phase-1-recon-web/
 ├── phase-2-exploitation-privesc/
 ├── phase-3-active-directory/
@@ -75,7 +75,7 @@ OSCP-Preparation/
 ## 📚 Highlights
 
 - 🧰 **[Tools Reference](references/tools-reference.md)** — every tool I've used, explained plainly with commands broken down.
-- 🚀 **[Week 1 — Lab & Battle Station](phase-0-foundations/week-01-lab-and-foundations.md)** — my full setup guide.
+- 🚀 **[Week 1 — Lab & Battle Station](phase-0-foundations/week-01/README.md)** — my full setup guide (multi-file study folder).
 - 📝 **[Writeups](writeups/)** — practice-box walkthroughs *(retired / authorised targets only)*.
 
 ---
