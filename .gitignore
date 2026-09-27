@@ -5,3 +5,5 @@ creds.txt
 scratch/
 *.tmp
 .DS_Store
+
+OSCP-Notes/
